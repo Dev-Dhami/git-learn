@@ -5,3 +5,7 @@ const account="your account created";
 console.log(account)
 
 console.log("master final commit");
+
+const payment="payment created";
+console.log(payment);
+
